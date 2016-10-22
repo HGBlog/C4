@@ -1,6 +1,0 @@
-/* CSS RESPONSIVE */
-@media (max-width: 814px) {
-  .navigation .navbar ul li a {
-    font-size: rem(12px);
-  }
-}
