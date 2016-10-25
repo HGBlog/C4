@@ -1,0 +1,6 @@
+.container-fluid .WidthFull {
+  padding: 0;
+}
+.container-fluid .WidthFull .slide .carousel-inner .item .img-responsive {
+  width: 100%;
+}
